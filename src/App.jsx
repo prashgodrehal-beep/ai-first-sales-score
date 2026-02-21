@@ -177,8 +177,8 @@ const App = () => {
                           key={num}
                           onClick={() => handleScore(idx, num)}
                           className={`w-12 h-12 rounded-xl text-sm font-bold transition-all ${scores[idx] === num
-                              ? 'bg-[#0F1F2E] text-white shadow-xl scale-110 ring-4 ring-[#0F1F2E]/10'
-                              : 'bg-white border border-slate-200 text-slate-400 hover:border-[#D97706] hover:text-[#D97706]'
+                            ? 'bg-[#0F1F2E] text-white shadow-xl scale-110 ring-4 ring-[#0F1F2E]/10'
+                            : 'bg-white border border-slate-200 text-slate-400 hover:border-[#D97706] hover:text-[#D97706]'
                             }`}
                         >
                           {num}
@@ -325,7 +325,7 @@ const App = () => {
             </a>
 
             <a
-              href="https://www.growthaspire.com/ai-bootcamp-business"
+              href="https://www.growthaspire.com/ai-first-business-2/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-white border-2 border-[#0F1F2E] text-[#0F1F2E] hover:bg-slate-50 px-12 py-6 rounded-full font-bold text-xl shadow-lg transition-all transform hover:-translate-y-1 active:scale-95 flex items-center justify-center gap-3"
@@ -336,7 +336,7 @@ const App = () => {
           </div>
 
           <p className="mt-20 text-xs font-bold text-slate-400 uppercase tracking-widest">
-            AI-First Sales Scorecard™ (Industrial Edition) &copy; 2024
+            AI-First Sales Scorecard™ (Industrial Edition) &copy; 2026
           </p>
         </section>
       </div>
