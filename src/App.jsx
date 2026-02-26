@@ -325,12 +325,12 @@ const App = () => {
             </a>
 
             <a
-              href="https://www.growthaspire.com/ai-first-business-2/"
+              href="https://www.growthaspire.com/ai-sales-masterclass/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-white border-2 border-[#0F1F2E] text-[#0F1F2E] hover:bg-slate-50 px-12 py-6 rounded-full font-bold text-xl shadow-lg transition-all transform hover:-translate-y-1 active:scale-95 flex items-center justify-center gap-3"
             >
-              Learn More
+              Register Live Masterclass
               <ExternalLink className="w-6 h-6" />
             </a>
           </div>
